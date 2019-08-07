@@ -1,0 +1,12 @@
+--git上传代码指令
+git init
+
+
+git add .
+
+
+git commit -m "提交" 
+
+
+git remote add origin https://gitee.com/smile18/test.git
+git push -u origin master 
